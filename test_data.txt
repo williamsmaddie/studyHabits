@@ -1,0 +1,27 @@
+
+
+
+
+EOF
+
+cycle = input('day of cycle is: ')
+romance = input('am i romantically involved? y or n ')
+caff = input('how much coffee did i drink today? in oz: ')
+sunny = input('is it sunny out? y or n ')
+jour = input('did i journal today? y or n ')
+writePo = input('did i write poetry today? y or n ')
+readPo = input('did i read poetry today? y or n ')
+willPo = input('do i plan on engaging with poetry today? y or n ')
+convo = input('did i have a nice conversation with someone today? y or n ')
+willConvo = input('do i anticipate engaging in a nice conversation today? y or n ')
+employed = input('am i employed? y or n ')
+twits = input('# of Twitter distractions? ')
+email = input('# of email distractions? ')
+app = input('# of phone app distractions? (other) ')
+fb = input('# of Facebook distractions? ')
+insta = input('# of Instagram distractions? ')
+li = input('# of LinkedIn distractions? ')
+skype = input('# of Skype distractions? ')
+reddit = input('# of Reddit distractions? ')
+sms = input('number of SMS message distractions? ')
+poms = input('how many poms of work did i do? ')
